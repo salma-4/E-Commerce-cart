@@ -1,0 +1,10 @@
+
+.table tbody td {
+	
+	vertical-align: middle;
+}
+.btn-decre ,.btn-incre{
+	box-shadow: none;
+	font-size: 25px;
+	color:#78C1F3;
+}
